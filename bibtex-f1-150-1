@@ -1,0 +1,478 @@
+Validation mean F1: 0.401
+Starting epoch 87 (it: 54037)
+Epoch took 4.05 seconds
+Validation mean F1: 0.404
+Starting epoch 88 (it: 54265)
+Epoch took 6.56 seconds
+Validation mean F1: 0.401
+Starting epoch 89 (it: 54493)
+Epoch took 4.24 seconds
+Validation mean F1: 0.404
+Starting epoch 90 (it: 54721)
+Epoch took 3.78 seconds
+Validation mean F1: 0.407
+Starting epoch 91 (it: 54949)
+Epoch took 3.82 seconds
+Validation mean F1: 0.406
+Starting epoch 92 (it: 55177)
+Epoch took 3.97 seconds
+Validation mean F1: 0.403
+Starting epoch 93 (it: 55405)
+Epoch took 3.86 seconds
+Validation mean F1: 0.399
+Starting epoch 94 (it: 55633)
+Epoch took 3.83 seconds
+Validation mean F1: 0.403
+Starting epoch 95 (it: 55861)
+Epoch took 3.92 seconds
+Validation mean F1: 0.403
+Starting epoch 96 (it: 56089)
+Epoch took 3.91 seconds
+Validation mean F1: 0.400
+Starting epoch 97 (it: 56317)
+Epoch took 3.64 seconds
+Validation mean F1: 0.402
+Starting epoch 98 (it: 56545)
+Epoch took 3.93 seconds
+Validation mean F1: 0.405
+Starting epoch 99 (it: 56773)
+Epoch took 3.75 seconds
+Validation mean F1: 0.400
+Starting epoch 100 (it: 57001)
+Epoch took 4.16 seconds
+Validation mean F1: 0.401
+Starting epoch 101 (it: 57229)
+Epoch took 3.87 seconds
+Validation mean F1: 0.402
+Starting epoch 102 (it: 57457)
+Epoch took 4.02 seconds
+Validation mean F1: 0.403
+Starting epoch 103 (it: 57685)
+Epoch took 3.95 seconds
+Validation mean F1: 0.400
+Starting epoch 104 (it: 57913)
+Epoch took 3.95 seconds
+Validation mean F1: 0.403
+Starting epoch 105 (it: 58141)
+Epoch took 3.81 seconds
+Validation mean F1: 0.399
+Starting epoch 106 (it: 58369)
+Epoch took 3.86 seconds
+Validation mean F1: 0.404
+Starting epoch 107 (it: 58597)
+Epoch took 3.96 seconds
+Validation mean F1: 0.407
+Starting epoch 108 (it: 58825)
+Epoch took 3.63 seconds
+Validation mean F1: 0.403
+Starting epoch 109 (it: 59053)
+Epoch took 3.58 seconds
+Validation mean F1: 0.401
+Starting epoch 110 (it: 59281)
+Epoch took 3.67 seconds
+Validation mean F1: 0.400
+Starting epoch 111 (it: 59509)
+Epoch took 3.89 seconds
+Validation mean F1: 0.401
+Starting epoch 112 (it: 59737)
+Epoch took 3.58 seconds
+Validation mean F1: 0.402
+Starting epoch 113 (it: 59965)
+Epoch took 3.72 seconds
+Validation mean F1: 0.407
+Starting epoch 114 (it: 60193)
+Epoch took 3.75 seconds
+Validation mean F1: 0.404
+Starting epoch 115 (it: 60421)
+Epoch took 3.69 seconds
+Validation mean F1: 0.405
+Starting epoch 116 (it: 60649)
+Epoch took 3.74 seconds
+Validation mean F1: 0.403
+Starting epoch 117 (it: 60877)
+Epoch took 3.70 seconds
+Validation mean F1: 0.406
+Starting epoch 118 (it: 61105)
+Epoch took 3.95 seconds
+Validation mean F1: 0.399
+Starting epoch 119 (it: 61333)
+Epoch took 3.81 seconds
+Validation mean F1: 0.398
+Starting epoch 120 (it: 61561)
+Epoch took 3.86 seconds
+Validation mean F1: 0.406
+Starting epoch 121 (it: 61789)
+Epoch took 3.68 seconds
+Validation mean F1: 0.403
+Starting epoch 122 (it: 62017)
+Epoch took 4.04 seconds
+Validation mean F1: 0.401
+Starting epoch 123 (it: 62245)
+Epoch took 3.96 seconds
+Validation mean F1: 0.400
+Starting epoch 124 (it: 62473)
+Epoch took 3.70 seconds
+Validation mean F1: 0.405
+Starting epoch 125 (it: 62701)
+Epoch took 4.06 seconds
+Validation mean F1: 0.403
+Starting epoch 126 (it: 62929)
+Epoch took 3.83 seconds
+Validation mean F1: 0.402
+Starting epoch 127 (it: 63157)
+Epoch took 3.60 seconds
+Validation mean F1: 0.401
+Starting epoch 128 (it: 63385)
+Epoch took 3.82 seconds
+Validation mean F1: 0.403
+Starting epoch 129 (it: 63613)
+Epoch took 5.49 seconds
+Validation mean F1: 0.399
+Starting epoch 130 (it: 63841)
+Epoch took 5.26 seconds
+Validation mean F1: 0.404
+Starting epoch 131 (it: 64069)
+Epoch took 4.35 seconds
+Validation mean F1: 0.402
+Starting epoch 132 (it: 64297)
+Epoch took 4.38 seconds
+Validation mean F1: 0.403
+Starting epoch 133 (it: 64525)
+Epoch took 4.05 seconds
+Validation mean F1: 0.401
+Starting epoch 134 (it: 64753)
+Epoch took 3.87 seconds
+Validation mean F1: 0.401
+Starting epoch 135 (it: 64981)
+Epoch took 3.85 seconds
+Validation mean F1: 0.402
+Starting epoch 136 (it: 65209)
+Epoch took 3.62 seconds
+Validation mean F1: 0.402
+Starting epoch 137 (it: 65437)
+Epoch took 3.69 seconds
+Validation mean F1: 0.405
+Starting epoch 138 (it: 65665)
+Epoch took 3.77 seconds
+Validation mean F1: 0.400
+Starting epoch 139 (it: 65893)
+Epoch took 3.61 seconds
+Validation mean F1: 0.405
+Starting epoch 140 (it: 66121)
+Epoch took 3.89 seconds
+Validation mean F1: 0.404
+Starting epoch 141 (it: 66349)
+Epoch took 3.83 seconds
+Validation mean F1: 0.402
+Starting epoch 142 (it: 66577)
+Epoch took 3.63 seconds
+Validation mean F1: 0.414
+Starting epoch 143 (it: 66805)
+Epoch took 3.89 seconds
+Validation mean F1: 0.401
+Starting epoch 144 (it: 67033)
+Epoch took 3.96 seconds
+Validation mean F1: 0.400
+Starting epoch 145 (it: 67261)
+Epoch took 3.96 seconds
+Validation mean F1: 0.400
+Starting epoch 146 (it: 67489)
+Epoch took 3.88 seconds
+Validation mean F1: 0.404
+Starting epoch 147 (it: 67717)
+Epoch took 3.84 seconds
+Validation mean F1: 0.398
+Starting epoch 148 (it: 67945)
+Epoch took 4.14 seconds
+Validation mean F1: 0.402
+Starting epoch 149 (it: 68173)
+Epoch took 5.71 seconds
+Validation mean F1: 0.402
+
+Starting epoch 0 (it: 68401)
+Epoch took 5.73 seconds
+Validation mean F1: 0.402
+Starting epoch 1 (it: 68629)
+Epoch took 5.68 seconds
+Validation mean F1: 0.400
+Starting epoch 2 (it: 68857)
+Epoch took 5.90 seconds
+Validation mean F1: 0.399
+Starting epoch 3 (it: 69085)
+Epoch took 5.08 seconds
+Validation mean F1: 0.397
+Starting epoch 4 (it: 69313)
+Epoch took 5.52 seconds
+Validation mean F1: 0.395
+Starting epoch 5 (it: 69541)
+Epoch took 7.85 seconds
+Validation mean F1: 0.395
+Starting epoch 6 (it: 69769)
+Epoch took 6.30 seconds
+Validation mean F1: 0.399
+Starting epoch 7 (it: 69997)
+Epoch took 5.63 seconds
+Validation mean F1: 0.400
+Starting epoch 8 (it: 70225)
+Epoch took 5.48 seconds
+Validation mean F1: 0.394
+Starting epoch 9 (it: 70453)
+Epoch took 4.76 seconds
+Validation mean F1: 0.400
+Starting epoch 10 (it: 70681)
+Epoch took 4.45 seconds
+Validation mean F1: 0.401
+Starting epoch 11 (it: 70909)
+Epoch took 5.41 seconds
+Validation mean F1: 0.399
+Starting epoch 12 (it: 71137)
+Epoch took 4.07 seconds
+Validation mean F1: 0.399
+Starting epoch 13 (it: 71365)
+Epoch took 4.64 seconds
+Validation mean F1: 0.403
+Starting epoch 14 (it: 71593)
+Epoch took 4.11 seconds
+Validation mean F1: 0.401
+Starting epoch 15 (it: 71821)
+Epoch took 3.87 seconds
+Validation mean F1: 0.402
+Starting epoch 16 (it: 72050)
+Epoch took 3.40 seconds
+Validation mean F1: 0.400
+Starting epoch 17 (it: 72278)
+Epoch took 3.74 seconds
+Validation mean F1: 0.402
+Starting epoch 18 (it: 72506)
+Epoch took 3.67 seconds
+Validation mean F1: 0.397
+Starting epoch 19 (it: 72734)
+Epoch took 3.78 seconds
+Validation mean F1: 0.399
+Starting epoch 20 (it: 72962)
+Epoch took 3.84 seconds
+Validation mean F1: 0.397
+Starting epoch 21 (it: 73190)
+Epoch took 3.61 seconds
+Validation mean F1: 0.400
+Starting epoch 22 (it: 73418)
+Epoch took 3.75 seconds
+Validation mean F1: 0.400
+Starting epoch 23 (it: 73646)
+Epoch took 3.86 seconds
+Validation mean F1: 0.401
+Starting epoch 24 (it: 73874)
+Epoch took 3.89 seconds
+Validation mean F1: 0.398
+Starting epoch 25 (it: 74102)
+Epoch took 3.64 seconds
+Validation mean F1: 0.399
+Starting epoch 26 (it: 74330)
+Epoch took 3.59 seconds
+Validation mean F1: 0.402
+Starting epoch 27 (it: 74558)
+Epoch took 3.62 seconds
+Validation mean F1: 0.401
+Starting epoch 28 (it: 74786)
+Epoch took 3.78 seconds
+Validation mean F1: 0.401
+Starting epoch 29 (it: 75014)
+Epoch took 3.93 seconds
+Validation mean F1: 0.402
+Starting epoch 30 (it: 75242)
+Epoch took 4.01 seconds
+Validation mean F1: 0.399
+Starting epoch 31 (it: 75470)
+Epoch took 3.35 seconds
+Validation mean F1: 0.405
+Starting epoch 32 (it: 75698)
+Epoch took 3.96 seconds
+Validation mean F1: 0.399
+Starting epoch 33 (it: 75926)
+Epoch took 3.81 seconds
+Validation mean F1: 0.399
+Starting epoch 34 (it: 76154)
+Epoch took 3.71 seconds
+Validation mean F1: 0.399
+Starting epoch 35 (it: 76382)
+Epoch took 3.79 seconds
+Validation mean F1: 0.402
+Starting epoch 36 (it: 76610)
+Epoch took 3.80 seconds
+Validation mean F1: 0.398
+Starting epoch 37 (it: 76838)
+Epoch took 4.17 seconds
+Validation mean F1: 0.399
+Starting epoch 38 (it: 77066)
+Epoch took 3.36 seconds
+Validation mean F1: 0.402
+Starting epoch 39 (it: 77294)
+Epoch took 3.72 seconds
+Validation mean F1: 0.402
+Starting epoch 40 (it: 77522)
+Epoch took 3.77 seconds
+Validation mean F1: 0.401
+Starting epoch 41 (it: 77750)
+Epoch took 3.91 seconds
+Validation mean F1: 0.400
+Starting epoch 42 (it: 77978)
+Epoch took 3.77 seconds
+Validation mean F1: 0.399
+Starting epoch 43 (it: 78206)
+Epoch took 4.02 seconds
+Validation mean F1: 0.398
+Starting epoch 44 (it: 78434)
+Epoch took 3.96 seconds
+Validation mean F1: 0.399
+Starting epoch 45 (it: 78662)
+Epoch took 3.77 seconds
+Validation mean F1: 0.398
+Starting epoch 46 (it: 78890)
+Epoch took 3.91 seconds
+Validation mean F1: 0.399
+Starting epoch 47 (it: 79118)
+Epoch took 3.55 seconds
+Validation mean F1: 0.400
+Starting epoch 48 (it: 79346)
+Epoch took 3.70 seconds
+Validation mean F1: 0.400
+Starting epoch 49 (it: 79574)
+Epoch took 3.55 seconds
+Validation mean F1: 0.400
+Starting epoch 50 (it: 79802)
+Epoch took 3.61 seconds
+Validation mean F1: 0.403
+Starting epoch 51 (it: 80030)
+Epoch took 4.04 seconds
+Validation mean F1: 0.399
+Starting epoch 52 (it: 80258)
+Epoch took 3.74 seconds
+Validation mean F1: 0.399
+Starting epoch 53 (it: 80486)
+Epoch took 3.51 seconds
+Validation mean F1: 0.398
+Starting epoch 54 (it: 80714)
+Epoch took 3.84 seconds
+Validation mean F1: 0.400
+Starting epoch 55 (it: 80942)
+Epoch took 3.65 seconds
+Validation mean F1: 0.400
+Starting epoch 56 (it: 81170)
+Epoch took 3.69 seconds
+Validation mean F1: 0.402
+Starting epoch 57 (it: 81398)
+Epoch took 3.59 seconds
+Validation mean F1: 0.403
+Starting epoch 58 (it: 81626)
+Epoch took 3.59 seconds
+Validation mean F1: 0.403
+Starting epoch 59 (it: 81854)
+Epoch took 3.91 seconds
+Validation mean F1: 0.399
+Starting epoch 60 (it: 82082)
+Epoch took 4.12 seconds
+Validation mean F1: 0.400
+Starting epoch 61 (it: 82310)
+Epoch took 4.50 seconds
+Validation mean F1: 0.400
+Starting epoch 62 (it: 82538)
+Epoch took 3.75 seconds
+Validation mean F1: 0.398
+Starting epoch 63 (it: 82766)
+Epoch took 3.85 seconds
+Validation mean F1: 0.400
+Starting epoch 64 (it: 82994)
+Epoch took 3.77 seconds
+Validation mean F1: 0.401
+Starting epoch 65 (it: 83222)
+Epoch took 3.94 seconds
+Validation mean F1: 0.398
+Starting epoch 66 (it: 83450)
+Epoch took 3.77 seconds
+Validation mean F1: 0.399
+Starting epoch 67 (it: 83678)
+Epoch took 3.92 seconds
+Validation mean F1: 0.402
+Starting epoch 68 (it: 83906)
+Epoch took 3.44 seconds
+Validation mean F1: 0.400
+Starting epoch 69 (it: 84134)
+Epoch took 3.51 seconds
+Validation mean F1: 0.400
+Starting epoch 70 (it: 84362)
+Epoch took 3.65 seconds
+Validation mean F1: 0.400
+Starting epoch 71 (it: 84590)
+Epoch took 3.74 seconds
+Validation mean F1: 0.400
+Starting epoch 72 (it: 84818)
+Epoch took 3.37 seconds
+Validation mean F1: 0.399
+Starting epoch 73 (it: 85046)
+Epoch took 3.39 seconds
+Validation mean F1: 0.398
+Starting epoch 74 (it: 85274)
+Epoch took 3.58 seconds
+Validation mean F1: 0.398
+
+Starting epoch 0 (it: 85502)
+Epoch took 4.54 seconds
+Starting epoch 1 (it: 85742)
+Epoch took 5.08 seconds
+Starting epoch 2 (it: 85982)
+Epoch took 4.68 seconds
+Starting epoch 3 (it: 86222)
+Epoch took 3.49 seconds
+Starting epoch 4 (it: 86462)
+Epoch took 3.54 seconds
+Starting epoch 5 (it: 86702)
+Epoch took 3.54 seconds
+Starting epoch 6 (it: 86942)
+Epoch took 3.62 seconds
+Starting epoch 7 (it: 87182)
+Epoch took 3.36 seconds
+Starting epoch 8 (it: 87422)
+Epoch took 3.44 seconds
+Starting epoch 9 (it: 87662)
+Epoch took 3.78 seconds
+Starting epoch 10 (it: 87902)
+Epoch took 3.37 seconds
+Starting epoch 11 (it: 88142)
+Epoch took 4.96 seconds
+Starting epoch 12 (it: 88382)
+Epoch took 3.77 seconds
+Starting epoch 13 (it: 88622)
+Epoch took 3.73 seconds
+Starting epoch 14 (it: 88862)
+Epoch took 3.63 seconds
+
+1.000 (0 of 2515)
+0.385 (100 of 2515)
+0.395 (200 of 2515)
+0.400 (300 of 2515)
+0.407 (400 of 2515)
+0.409 (500 of 2515)
+0.405 (600 of 2515)
+0.411 (700 of 2515)
+0.408 (800 of 2515)
+0.406 (900 of 2515)
+0.405 (1000 of 2515)
+0.412 (1100 of 2515)
+0.413 (1200 of 2515)
+0.410 (1300 of 2515)
+0.410 (1400 of 2515)
+0.411 (1500 of 2515)
+0.412 (1600 of 2515)
+0.413 (1700 of 2515)
+0.415 (1800 of 2515)
+0.416 (1900 of 2515)
+0.414 (2000 of 2515)
+0.413 (2100 of 2515)
+0.411 (2200 of 2515)
+0.411 (2300 of 2515)
+0.414 (2400 of 2515)
+0.414 (2500 of 2515)
+0.414
+/usr/local/lib/python2.7/dist-packages/sklearn/metrics/classification.py:1135: UndefinedMetricWarning: F-score is ill-defined and being set to 0.0 due to no predicted samples.
+  'precision', 'predicted', average, warn_for)
+
